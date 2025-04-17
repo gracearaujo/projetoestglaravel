@@ -53,4 +53,4 @@ npm i --save-dev sass
 
 # Executa a biblioteca do node
 
-npm rum dev
+npm run dev
